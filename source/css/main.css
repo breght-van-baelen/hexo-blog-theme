@@ -10,7 +10,7 @@ body {
   background: #FFF;
 }
 .highlight {
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 p {
   line-height: 1.5;
